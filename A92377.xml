@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Relation of the sundry occurrences in Ireland from the fleet of ships set out by the adventurers of the additionall forces by sea. With the names of the ships, and the commanders of them, and their severall burdens, and number of men in every ship. Also the names of the commanders of the land-forces, under the command of the Right Honorable Robert Lord Brooke, all set out by the said adventurers, also a true copy, of most wicked verses written in forme of a ballad, defying the English, being found in a rebels pocket, and sent among other papers to the adventurers. Hereunto is added, the true copy of a letter sent from Colonell Goring to his Majesty, which letter was intercepted by the way, and now published.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92377</idno>
+            <idno type="STC">Wing R872</idno>
+            <idno type="STC">Thomason E239_4</idno>
+            <idno type="STC">ESTC R19410</idno>
+            <idno type="EEBO-CITATION">99860662</idno>
+            <idno type="PROQUEST">99860662</idno>
+            <idno type="VID">112787</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92377)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112787)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 41:E239[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Relation of the sundry occurrences in Ireland from the fleet of ships set out by the adventurers of the additionall forces by sea. With the names of the ships, and the commanders of them, and their severall burdens, and number of men in every ship. Also the names of the commanders of the land-forces, under the command of the Right Honorable Robert Lord Brooke, all set out by the said adventurers, also a true copy, of most wicked verses written in forme of a ballad, defying the English, being found in a rebels pocket, and sent among other papers to the adventurers. Hereunto is added, the true copy of a letter sent from Colonell Goring to his Majesty, which letter was intercepted by the way, and now published.</title>
+                  <author>Goring, George Goring, Baron, 1608-1657.</author>
+                  <author>Mahony, Cornelius, d. 1650.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. for Hen. Overton,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The ballad is signed: Cornelius Mahony.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Aug. 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brooke, Robert Greville, --  Baron, 1607-1643.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112787:1" rendition="simple:additions"/>
+            <p>A
+RELATION
+OF THE
+SVNDRY OCCVRRENCES
+IN
+IRELAND
+From the Fleet of Ships ſet out by
+the Adventurers of the Additionall
+Forces by SEA.</p>
+            <p>With the Names of the Ships, and the Com<g ref="char:EOLhyphen"/>manders
+of them, and their ſeverall burdens, and
+number of Men in every Ship.</p>
+            <p>Alſo the Names of the Commanders of the Land-Forces,
+under the command of the Right Honorable <hi>Robert</hi>
+Lord <hi>Brooke,</hi> all ſet out by the ſaid Adventurers,</p>
+            <p>Alſo a true Copy, of moſt wicked Verſes written in
+forme of a Ballad, defying the Engliſh, being found in a
+Rebels pocket, and ſent among other papers
+to the Adventurers.</p>
+            <p>Hereunto is added, the true Copy of a Letter ſent from Colo<g ref="char:EOLhyphen"/>nell
+<hi>Goring</hi> to his Majeſty, which Letter was intercepted
+by the way, and now publiſhed.</p>
+            <p>LONDON, <hi>Printed by</hi> E. G. <hi>for</hi> Hen. Overton, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:112787:2"/>
+            <head>A Relation of the ſundry Occurrences in
+Ireland, from the Fleet of Ships ſet out by the
+Adventurers of the additionall Forces by Sea.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter a long paſſage from London we arrived the 10 of july laſt at Kinſale
+with 10 ſaile of our fleet, where the Right Honorable Alexander, Lord
+Forbes our Commander, next unto the Right Honorable Lord Brooke,
+received intelligence that the Town of Bandonbridge wherein were
+7000 Engliſh Proteſtants was in great want of Amunition, and that the Lord Mus<g ref="char:EOLhyphen"/>kery
+(the chiefe Rebell) withall his Forces, intended within 5 or 6 dayes to ſet upon
+the ſaid Town, to take it and to put all the Engliſh to the Sword, ſuch is the rage
+malice and hatred of thoſe Rebells againſt them that they would not ſpare man wo<g ref="char:EOLhyphen"/>man
+nor hild. But by the good providence of Almighty God, we arived in the very
+rick of time to the great joy and comfort of the Engliſh, and to the terror of the
+Rebells, preventing them from their intended deſigne.</p>
+            <p>The Lord Forbes loſt no time in the exerciſing of his men, and the 15 of Iuly with
+800 Land and Seamen corragiouſly marched towards Bandon for the reliefe of it,
+and other Caſtles thereabouts who were blockt up by the Rebells.</p>
+            <p>The inhabitants of Bandon upon ſight of the reliefe came unto them from the
+Parliament, and the Adventurers in the additional Forces by Sea for Ireland, with
+good ſtore of Amunition, as Muskets, Powder, Shot and other neceſſaries were
+much revived, leaping for joy, and returned publick thanks to Almighty God
+for his great mercy and goodneſſe to them, in ſending this ſupply in ſuch their great
+ſtraight and miſery. Maſter Peters our Miniſter preached at Bandon, much incou<g ref="char:EOLhyphen"/>raging
+the Inhabitants.</p>
+            <p>The 16 of July the Lord Forbes with his 800 men, and 200 Foote and 70 Horſe of
+Ban<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, marched from thence to cleere the Country of Rebells, that the Engliſh
+might reap and gather in their harveſt; As alſo for the reliefe of Raph Barry Caſtle
+being from King fale as we marched about 25 Engliſh miles; and in our march we
+ſet upon an Engliſh Towne called Cloughnieilty, which the Rebels formerly took
+and poſſeſſed, which Town we took, and killed of the Rebels about 200, and had
+much pillage in it of Corne and Cattell, and there the Lord Forbes left 3. Compa<g ref="char:EOLhyphen"/>nies
+of his men to guard the Towne and village.</p>
+            <p>From thence we marched with 700 men, and the troope of Horſe for Raph Barry
+Caſtle to relieve Maſter Feak, and about 100 Engliſh that were blockt up. We
+furniſhed them with Men, Cowe, Horſe, Sheep, Amunition, &amp;c. And left them in
+good condition to defend themſelves againſt the Rebells, the Caſtle being very
+ſtrong of it ſelfe, and lying within a mile of the Town of Roſſe.</p>
+            <p>When our Souldiers were at dinner, newes came that Generall Maccarte Tego
+<pb facs="tcp:112787:2"/>
+Downing, and ſome of Lord Muskery his Forces about 7000 Foote, and 300 Horſe
+were falle upon our three Companies, left at Cloughnieilty, and that they were in
+great danger, whereupon the Lord Forbes together with his Captaine and Soul<g ref="char:EOLhyphen"/>diers
+with more then ordinary valour, courage and reſolution, haſtened to relieve
+them: and comming in ſight of the Rebels Army, and ſeeing two of our Colours
+playing in a little breaſt worke beleagured with 1000 Rebells about them; we mar<g ref="char:EOLhyphen"/>ched
+up neer them, and gave five to one of our Feild Pieces of Ordnance, which
+made the Rebells retreate, whereby we reſcued two of our ſai<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Companies, the
+third being Captaine Weldon an old Souldier, but over Adventurous and more
+relying upon his own valour, then hearkning to the advice of other Captaines to re<g ref="char:EOLhyphen"/>treate,
+very valiantly ſet upon the Rebells, and after he had killed many of them in
+the battell was ſlaine himſelfe, together with about h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lfe his Company.</p>
+            <p>As ſoone as we had reſcued our two Companies, we fell upon the Rebels who
+were in faire order of battell with divers Colours flying, and after ſome fight with
+them, the Lord Forbes commanded to open to the right and left, and ſhot a piece
+of Ordinance at them, whereupon they run away and were ſo routed that we ſlew
+many of them upon our purſuit, and following them ſo cloſe divers we forced in<g ref="char:EOLhyphen"/>to
+the Sea, others got into an Iland, ſome into Bogs and Mountaines, and it was mi<g ref="char:EOLhyphen"/>raculous,
+and the great mercy of God that ſo great a defeat, upon ſo many by ſo
+ſmall a number was wrought in ſo ſhort a time, and not one of our men loſt, in this
+march we verily believe that there is 800 Rebels ſlaine, ſome thinke 12 or 500 and
+amongſt them many of the cheife Rebels and Commanders were ſlaine in this Bat<g ref="char:EOLhyphen"/>tell;
+the booty we took from the Rebels upon this defeate, was <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>000 Sheep 200
+Cowes, and 50 Horſe and Armes where with we marched to Bandon, and their left
+the booty to relieve the Town. From Bandon we marched to Timoleage and burnt
+the Town and Abby, and from thence came to Kingſale, where we found two of
+our other Ships returned, which were ſent to guard the Coaſt, and to relieve Balti<g ref="char:EOLhyphen"/>more,
+and Caſtle-Haven, where were about 4. or 500. Engliſh.</p>
+            <p>The Frigat Penington. Captaine Clark Commander hath done very good ſervice
+a Baltimore by a ſtratagem having taken 17. Rebels there, ſome were the principall
+of them one Captain Mac-Carte, Dermon and Clouke Tego Downing beſides ſome
+others worth 500. l. Per Annum (as we are informed) they offer to ſupply proviſions
+for our Fleet, and a good ranſom only to ſpare their lives, we are now Shipping our
+men abord and ſo going to Baltimore.</p>
+            <p>We are informed that Galloway is out in Rebellion again ſo it is intended that ſo
+ſoone as the Lord Forbes meets with the reſt of the Fleet, and is compleat, after he
+ſhall have releived ſome Caſtles in the way, and cleered the Country. We ſhall en<g ref="char:EOLhyphen"/>deavour
+to releive Galloway Caſtle, and to ſet upon that Town if God proſper us
+we hope to carry it.</p>
+            <p>It is reported that the L. Randelo, Lord Preſident of Conaught, hath done great
+ſervice ſince the Rebellion, having got about 400 Engliſh, together at Atlon. And
+Roſcoman and hath fired the Country, 20 or 40 miles about, and hath inriched his
+men with the ſpoyle taken from the Rebels, and upon a late ſupply of 2000. men
+from Dublin it is hoped he will cleere moſt part of that provence of Conaught, and
+march to Galloway to joyn with our Sea and Land forces, to beleager the Town.</p>
+            <p>
+               <pb facs="tcp:112787:3"/>
+The Lord Forbes with the other Commanders intend to loſe no time, but to doe
+their uttermoſt in helping to reduce the Rebels to their due obedience to his Maje<g ref="char:EOLhyphen"/>ſty,
+and the Crown of England, it being high time, their inſolencies, and cruelties
+were curbed, they commonly calling us Parliament dogs, and London Prentiſes, and
+ſay their commiſſion for their Rebellion is better then ours, but we hope God will
+inable us to help to quell their impudent cruelty.</p>
+            <p>Two of our Fleet are gon to Duncannon Caſtle and Dublin, to convoy ſome
+proviſions and to bring advice of the ſtate of the Country, the Lord Forbers is pe<g ref="char:EOLhyphen"/>tioned
+from divers places for his aid and ſupply, his Lordſhip will give them the beſt
+aid he can one after another, we hope this Fleet will do much good to this bleeding
+Kingdom, and releive many poore drouping ſoules, and we hope our great Armies
+in Lempſter, and Vlſter, will with Gods bleſſing cleere thoſe parts, and march into
+Monſter to cleere thoſe parts of theſe proſidious Rebels, which he of his infinite
+mercy grant for the advancement of the Goſpell, and the good of all His Majeſties
+Dominions.</p>
+         </div>
+         <div type="list_of_ships">
+            <head>The names of Ships imployed by the Adventurers in the Addi<g ref="char:EOLhyphen"/>tionall
+forces by Sea for Ireland from London.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>Ships.</cell>
+                     <cell>Commanders.</cell>
+                     <cell>Burden. Seamen.</cell>
+                  </row>
+                  <row>
+                     <cell>1 Speedwell,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Benjamin Peters.</cell>
+                     <cell>400 tun. 120.</cell>
+                  </row>
+                  <row>
+                     <cell>2 Zant-Merchant,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Thomas Rainborow.</cell>
+                     <cell>400 tun. 120.</cell>
+                  </row>
+                  <row>
+                     <cell>3 Good Hope,</cell>
+                     <cell>
+                        <hi>Cap.</hi> William Thomſon.</cell>
+                     <cell>400 tun. 120.</cell>
+                  </row>
+                  <row>
+                     <cell>4 Achilles,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Nicholas Simonſon.</cell>
+                     <cell>260 tun. 78.</cell>
+                  </row>
+                  <row>
+                     <cell>5 George Bonaventure,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Robert Sackrey.</cell>
+                     <cell>240 tun. 72.</cell>
+                  </row>
+                  <row>
+                     <cell>6 Mary Bonaventure,</cell>
+                     <cell>
+                        <hi>Cap.</hi> George Richardſon.</cell>
+                     <cell>240 tun. 72,</cell>
+                  </row>
+                  <row>
+                     <cell>7 Hope well,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Edward Thomſon.</cell>
+                     <cell>200 tun. 60.</cell>
+                  </row>
+                  <row>
+                     <cell>8 Katherin,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Samuel Andrews.</cell>
+                     <cell>180 tun. 54.</cell>
+                  </row>
+                  <row>
+                     <cell>9 Penington,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Thomas Clark.</cell>
+                     <cell>130 tun. 39.</cell>
+                  </row>
+                  <row>
+                     <cell>10 Dolphin,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Edward Dorrington.</cell>
+                     <cell>80 tun. 24.</cell>
+                  </row>
+                  <row>
+                     <cell>11 Chriſtopher,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Iohn Seaman.</cell>
+                     <cell>70 tun. 21.</cell>
+                  </row>
+                  <row>
+                     <cell>12 William and Thomas,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Iohn Daniel.</cell>
+                     <cell>70 tun. 21.</cell>
+                  </row>
+                  <row>
+                     <cell>13 Intelligence,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Anthony Eueriſt.</cell>
+                     <cell>70 tun. 21.</cell>
+                  </row>
+                  <row>
+                     <cell>14 Willing-mind.</cell>
+                     <cell>
+                        <hi>Cap.</hi> Iohn Kichiner.</cell>
+                     <cell>40 tun. 12.</cell>
+                  </row>
+                  <row>
+                     <cell>15 Raphe,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Ralph Richardſon.</cell>
+                     <cell>40 tun. 12.</cell>
+                  </row>
+                  <row>
+                     <cell>16 Lion,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Lodowick Dick.</cell>
+                     <cell>500 tun. 150.</cell>
+                  </row>
+                  <row>
+                     <cell>17 Lorne,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Andrew Raine.</cell>
+                     <cell>100 tun. 30.</cell>
+                  </row>
+                  <row>
+                     <cell>18 Proſperous,</cell>
+                     <cell>
+                        <hi>Cap.</hi> Iohn Hariſon.</cell>
+                     <cell>160 tun. 46.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="list_of_officers">
+            <pb facs="tcp:112787:3"/>
+            <head>The Commanders of the Land-Forces, ſet out by the Adventu<g ref="char:EOLhyphen"/>rers
+in the additionall Forces by Sea for Ireland, under the command
+of the Right Honourable Robert Lord Brook.</head>
+            <list>
+               <item>
+                  <hi>RObert</hi> Lord <hi>Brooke,</hi> his Company 100 men.</item>
+               <item>
+                  <hi>Alexander</hi> Lord <hi>Forbes</hi> his Company 100 men.</item>
+               <item>
+                  <hi>Iohn Humphrey</hi> Serjeant-Major, his Company 100 men.</item>
+               <item>Captaine <hi>Giles Beaton,</hi> his Company 100 men.</item>
+               <item>Captaine <hi>Nicholas Criſp,</hi> his Company 100 men.</item>
+               <item>Captaine <hi>William Weldon,</hi> his Company 100 men.</item>
+               <item>Captaine <hi>Hugh Price,</hi> his Company 100 men.</item>
+               <item>Captaine <hi>William Hull,</hi> his Company 100 men.</item>
+               <item>Captaine <hi>Thomas Long,</hi> his Company 100 men.</item>
+               <item>Captaine <hi>Iohn Anderſon,</hi> his Company 100 men,</item>
+            </list>
+            <p>One hundred men a Company, beſides all Officers.</p>
+            <list>
+               <head>The 2 Companies 100 men a peece.</head>
+               <item>Captaine <hi>Lodowick Dick,</hi> with his Company of one hundred men.</item>
+               <item>Captaine <hi>Iohn Glen</hi> with his Company one hundred men.</item>
+            </list>
+         </div>
+         <div type="deposition">
+            <head>To the meere irreligious murderer William Srintleger,
+Head and Governour of this paganicall Engliſh Army
+in the Kingdome of Ireland.</head>
+            <p>WHereas we the Peers and Nobles of <hi>Ireland</hi> have with mutuall
+minds conſented to ſtand for our religion (God helping) and to
+maintaine this warre as well in the beginning as to the end
+thereof, againſt you Proteſtants and Puritants; the cauſe is juſt on our ſide,
+you wholly bent to extirpate us out of this Kingdome, our native ſoyle, and
+to draw us miſtaken wretches, (our God and his Commandements deſpi<g ref="char:EOLhyphen"/>ſed)
+to puritaniſme: and in ſo much as you alledge that we rebell againſt
+our King, (The Lord protect and ſave him and his excellent Lady by the
+grace of God Queen of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of
+of the Faith, &amp;c, and his royall Crown) we anſwer that his Majeſty well
+pleaſed with the true information of things formerly ill conſtituted by the
+unſpeakable ignorance of the two never ſufficiently torment, <hi>Luther</hi> and
+<hi>Calvin,</hi> with the liberty of religion and ſafety of poore <hi>Ireland</hi> long ſun<g ref="char:EOLhyphen"/>ked
+in the bottomleſſe debt of calamity by your means, now deemed to be
+exalted to the high aſcence of felicity: to the ſufficient proofe of the afore<g ref="char:EOLhyphen"/>mentioned
+premiſes, we wiſh your preſence at an appointed time and place,
+either to ſhew your skilful experiment in martial diſcipline, or to avouch by
+a grant demonſtrated your favour with His Majeſty, which is abſurd, con<g ref="char:EOLhyphen"/>ſidering
+your conwardize and defect of courage, &amp; all hope baniſhed, Your
+<pb facs="tcp:112787:4"/>
+valour in deſpaire, the true preſage of your utter overthrow and downefall,
+as you bold it a common proverb amonſt your ſelves, Not to you onely this
+is im<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ted, but alſo to your wicked confederates feared and preſented in
+this. Kingdome. Therefore deſiring you all in generall for your owne profit,
+and willing you in His Majeſties name to ſubmit your ſelves, and ſo by
+conſequence to be converted to the holy Catholique; otherwiſe hide your
+heads under the ſheltring wals of Cities, &amp;c.</p>
+         </div>
+         <div type="ballad">
+            <head>A kind of a Ballad, briefly expreſſing the pride of Engliſh<g ref="char:EOLhyphen"/>men
+in this Kingdome: an example to all men to be content with
+whatſoever they have; with their ſpeech in the beginning
+of theſe Warres.</head>
+            <opener>To the Tune of, Ha, for my pride I muſt periſh.</opener>
+            <lg>
+               <l>THe mother of your evils your ſouls will receive,</l>
+               <l>Hither you came ſurely us poore to deceive,</l>
+               <l>But ſuch a good token to you we will ſend</l>
+               <l>That ſoonly will teach you your lives to amend,</l>
+               <l>Your God<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ars and Gamers, you rich that are moſt,</l>
+               <l>Your wives and children ſhall pay for th<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> roſt.</l>
+               <l>Our anger weel write in blood of your men,</l>
+               <l>And bravely weel tune it in cries of women.</l>
+               <l>Your faith you have ſold for pottage and bread.</l>
+               <l>In cheſe your ſermons and ſongs you have read,</l>
+               <l>Your deeds in deſpaire: I need not to tell</l>
+               <l>The portent of your downfall, you know it full well:</l>
+               <l>Our ſouldiers and male men are valiant and ſtout,</l>
+               <l>Our women and female are faire and devout,</l>
+               <l>Our riches were Heaven, and you were the God,</l>
+               <l>And ſo we permitted untill you were ſod.</l>
+               <l>From <hi>Ireland</hi> to <hi>England,</hi> but what to doe there?</l>
+               <l>Your pride and preſumption not kept any where.</l>
+               <l>From <hi>England</hi> your ſuccour I hardly beleeve,</l>
+               <l>Will come long longed ſuch rogues to relieve,</l>
+               <l>Your King you have baniſhed, and deſpiſed the Crowne,</l>
+               <l>But ſurely beleeve me your pride weel pull down.</l>
+               <l>Linckt in your Saddles a Horſe you ride,</l>
+               <l>The ſight of us Iriſh you dare not abide.</l>
+               <l>Away good man, good maſters away,</l>
+               <l>On yonder great Hill are a hundred this day.</l>
+               <l>
+                  <pb facs="tcp:112787:4"/>
+I vow and proteſt good Goſſip tis well,</l>
+               <l>To old Maſter <hi>Langthon</hi> this wonder weel tell.</l>
+               <l>And ſtumbling and ſtambling away they do trot</l>
+               <l>Their wives being weake to hang the black pot.</l>
+               <l>The day you ſhall curſe when firſt you begun,</l>
+               <l>And ſay with your ſelves our race we have run.</l>
+               <l>With Gentlemens murder our minds were content,</l>
+               <l>But fainting in heart, we lately repent.</l>
+               <l>In <hi>Corke</hi> my Lord Preſident ſhunneth the field,</l>
+               <l>His ſouldiers in treaſon from harme to ſhield.</l>
+               <l>Of Engliſh baſtards in Bandon a crew,</l>
+               <l>In priſon encloſed for death is their due,</l>
+               <l>In Warlike affaires mongſt all the reſt,</l>
+               <l>
+                  <hi>William Hull</hi> Crookbackd accounted the beſt.</l>
+               <l>The chiefe to inſtruct to march with a rope,</l>
+               <l>In order of hanging, grant Jeſu that ſcope.</l>
+               <l>Long time by miſ-fortune we were your poore ſlaves,</l>
+               <l>You dancing in Courts, we mourning in Caves,</l>
+               <l>In ſome of our Lands, of our buildings of all,</l>
+               <l>When we ſhould our ſelves you Lords we did call;</l>
+               <l>But being too much over-maſtered by pride</l>
+               <l>At you and your folly we ſcoffe and deride.</l>
+               <l>For when the beginning of the Rebels began;</l>
+               <l>From one to another they oftentimes ran,</l>
+               <l>Prethee our Dermon come hither I ſay,</l>
+               <l>And tell me from market what heard you this day,</l>
+               <l>In troth good maſter of help is no way,</l>
+               <l>But that we muſt periſh and wholly decay.</l>
+               <l>Why ſo? our Dermon, you make me to fret,</l>
+               <l>My limbs are trembling; on feare they are ſet</l>
+               <l>In <hi>Bandon</hi> proclaimed and fully ſet forth,</l>
+               <l>That many Rebels keep campes in the Norch.</l>
+               <l>Theſe news amazd them when firſt he did blaze,</l>
+               <l>That the<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were undone and in a bad caſe</l>
+               <l>Through feare and diſpaire in Cities they heape,</l>
+               <l>The fruit of their miſcheifes by dying to reape.</l>
+               <l>Good wife take ſome Bacon and bread, do not want,</l>
+               <l>I rather ſhould periſh than that ſhould be ſcant.</l>
+               <l>Their Cows and their Oxen we took for the rent,</l>
+               <l>And they with the pox for the Divell are ſent.</l>
+               <l>Weel hunt <hi>William Sintleger</hi> like a broune Fox,</l>
+               <l>
+                  <pb facs="tcp:112787:5"/>
+And you <hi>Lewis Boyle</hi> goe ſhrub with a pox,</l>
+               <l>My Lord of <hi>Barrimore</hi> go charge to the Beefe;</l>
+               <l>In faith by your Kinſmen an arrant great thiefe.</l>
+               <l>By riches ill gotten preferment they gained,</l>
+               <l>They like to be killed by them diſdained.</l>
+               <l>Your Statutes not ſetled on any ſure ground.</l>
+               <l>Your wealth did augment, and others confound.</l>
+               <l>Your faſhions are handſome, compleat I confeſſe,</l>
+               <l>But all being curious your fayth did oppreſſe.</l>
+               <l>But whether to kill them tis doubtfull to ſay,</l>
+               <l>Or elſe to ſhip them and ſend them away.</l>
+            </lg>
+            <closer>
+               <signed>Cornelius Mahony.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter ſent from Colonell Goring to His Majeſty.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS it is my duty, according to Your Majeſties commands, I have enſured
+this Fort for Your Majeſtie, and will ſacrifice my life in Your ſervice;
+The Caſtle of <hi>Portland</hi> hath in like manner ſurrendered; ſo that if we
+be beleagured, we may notwithſtanding be ſupplied out of Your Majeſties fertile
+Iland, not doubting to cut off all obſtacles to the contrary. Sir, we lie neere Your
+furious adverſaries, who we now expect daily, therefore in my opinion your beſt
+deſigne will be to draw what Forces you can, or the greateſt part thereof well ap<g ref="char:EOLhyphen"/>pointed
+with Ammunition and proviſion towards () and there incamp where
+you ſhall ſee the flower of your Engliſh Chivalry repaire to Your Majeſty, and
+this will divert their Forces, yet I leave theſe conſiderations to the more ſolid
+judgments of Your Majeſty, and your Councell of War, Your Majeſties Fly-boat
+is returned with good ſucceſſe I hope of their laſt voyage, as I underſtand by
+Your Majeſties intelligencer, I would not preſume to open the packets, yet I had
+a copy of the Contents abſtracted which puts me in a good hope of ſuch auxiliarys
+as by divine aſſiſtance ſhall inthronize Your Majeſty againe, <hi>Charles</hi> the firſt
+by Gods aſſiſtance the moſt puiſſant Monarch of any Prince that ever ſwayd the
+Scepter in theſe Occidentall Europian Iles in deſpight and maugre all antimo<g ref="char:EOLhyphen"/>narchiſts,
+for which end the prayers and endeavours of your Majeſties moſt
+humble and dutifull Subject and ſervant ſhall ever be intendent at your Ma<g ref="char:EOLhyphen"/>jeſties
+ſacred feet,</p>
+            <closer>
+               <signed>Co. Goring.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
